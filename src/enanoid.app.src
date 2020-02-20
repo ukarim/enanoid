@@ -4,6 +4,6 @@
   {applications, [kernel,stdlib]},
   {maintainers, []},
   {licenses, ["MIT"]},
-  {links, ["Github", "https://github.com/ukarim/enanoid"]}
+  {links, [{"Github", "https://github.com/ukarim/enanoid"}]}
  ]}.
 
